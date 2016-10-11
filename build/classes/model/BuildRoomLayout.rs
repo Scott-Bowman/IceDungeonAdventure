@@ -1,2 +1,0 @@
-model.BuildRoomLayout
-model.WallBuilder
